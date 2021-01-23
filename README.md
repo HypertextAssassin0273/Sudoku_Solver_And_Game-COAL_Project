@@ -1,2 +1,2 @@
-# Sudoku_Solver_And_Game-COAL_Project
+# Sudoku Solver & Game (COAL-Project)
 COAL Project based Sudoku Game built with native approach, using Irvine32 lib.
